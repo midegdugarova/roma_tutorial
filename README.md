@@ -211,10 +211,7 @@ Available built-in toolkits: `CalculatorToolkit`, `FileToolkit`, `WebSearchToolk
 
 ## Next Steps
 
-- **[CONFIGURATION.md](CONFIGURATION.md)** — Full config reference including profiles, prediction strategies, and per-agent settings
-- **[TOOLKITS.md](TOOLKITS.md)** — All available toolkits and how to build custom ones
-- **[MCP.md](MCP.md)** — Connect ROMA agents to any MCP server
-- **[API.md](API.md)** — Run ROMA as a REST API (requires Docker)
+TODO
 
 ---
 
